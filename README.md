@@ -40,15 +40,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
 
-### **Development Methodologies**  
-- Agile  
-- Test-Driven Development  
-
-### **Performance Monitoring**  
-- Tools like **New Relic**  
-- Custom monitoring with **Zoho**  
-
----
 
 ## 🏆 **Achievements**  
 
@@ -56,7 +47,7 @@
 - 🥈 **2nd Place** - SOCIO-HACKATHON 2024: City Sync  
 - 🌌 Contributed to **NASA Space Apps Challenge 2024**  
 - 🎯 **500+ programming challenges** solved on Skillrack  
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/drabishekraj2003?theme=dark&font=Montez)  
 ---
 
 ### ✨ **Why You Should Hire Me**  
